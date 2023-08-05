@@ -15,7 +15,7 @@ Scissor allows users to also generate QR codes for the shortened URLs. Users can
 Scissor provides basic analytics that allow users to track their shortened URL's performance. Users can see how many clicks their shortened URL has received and where the clicks are coming from. This feature will be implemented using Firebase's built-in analytics feature.
 
 ## Hosted Link
-
+https://scissor-six.vercel.app/
 ## Backend API 
 
 The backend api used: `http://cutly.onrender.com`
